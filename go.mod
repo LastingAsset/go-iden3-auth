@@ -1,4 +1,4 @@
-module github.com/iden3/go-iden3-auth
+module github.com/lastingasset/go-iden3-auth
 
 go 1.18
 

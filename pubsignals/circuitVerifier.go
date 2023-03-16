@@ -6,8 +6,8 @@ import (
 	"math/big"
 
 	"github.com/iden3/go-circuits"
-	"github.com/iden3/go-iden3-auth/loaders"
-	"github.com/iden3/go-iden3-auth/state"
+	"github.com/lastingasset/go-iden3-auth/loaders"
+	"github.com/lastingasset/go-iden3-auth/state"
 )
 
 // StateResolver is a state resolver interface

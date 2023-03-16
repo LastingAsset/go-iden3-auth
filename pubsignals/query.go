@@ -8,11 +8,11 @@ import (
 	"math/big"
 
 	"github.com/iden3/go-circuits"
-	"github.com/iden3/go-iden3-auth/loaders"
 	core "github.com/iden3/go-iden3-core"
 	jsonSuite "github.com/iden3/go-schema-processor/json"
 	"github.com/iden3/go-schema-processor/merklize"
 	"github.com/iden3/go-schema-processor/utils"
+	"github.com/lastingasset/go-iden3-auth/loaders"
 	"github.com/pkg/errors"
 )
 
